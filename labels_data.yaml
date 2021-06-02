@@ -1,0 +1,5 @@
+train: data/dataset/images/train/
+val: data/dataset/images/val/
+
+nc: 5
+names: ['label', 'price', 'cop', 'name', 'barcode']
